@@ -516,7 +516,7 @@ static char ** wpa_cli_complete_set(const char *str, int pos)
 		"ignore_auth_resp",
 #endif /* CONFIG_TESTING_OPTIONS */
 		"relative_rssi", "relative_band_adjust",
-		"extended_key_id",
+		"extended_key_id", "sae_pwe"
 	};
 	int i, num_fields = ARRAY_SIZE(fields);
 
