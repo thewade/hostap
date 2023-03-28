@@ -47,6 +47,7 @@
 #define DEFAULT_OCE_SUPPORT OCE_STA
 #define DEFAULT_EXTENDED_KEY_ID 0
 #define DEFAULT_SCAN_RES_VALID_FOR_CONNECT 5
+#define DEFAULT_SAE_PWE_GLOBAL 2
 
 #include "config_ssid.h"
 #include "wps/wps.h"
